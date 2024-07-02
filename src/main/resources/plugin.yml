@@ -1,0 +1,7 @@
+  name: Boca
+  main: com.github.yVapeSS.BocaPlugin
+  version: 1.0
+  description: Simples Plugin de /boca
+  commands:
+    boca:
+      description: Quebra blocos abaixo do jogador.
